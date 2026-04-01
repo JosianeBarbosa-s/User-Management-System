@@ -52,18 +52,18 @@ O objetivo deste projeto é praticar desenvolvimento frontend, incluindo:
 ## Preview
 
 ### Tela Principal
-![Tela principal](./screenshot.png)
+![Tela principal](./assets.png/screenshot.png)
 
 ### Cadastro Funcionando
-![Cadastro](./cadastro.png)
+![Cadastro](./assets.png/cadastro.png)
 
 ### Busca de Usuários
-![Busca](./busca.png)
+![Busca](./assets.png/busca.png)
 
 ### Ações (Excluir/Editar)
-![Ação Excluir](./AçãoExcluir.png)
+![Ação Excluir](./assets.png/AçãoExcluir.png)
 
-![Ação Editar](./AçãoEditar.png)
+![Ação Editar](./assets.png/AçãoEditar.png)
 
 ---
 
