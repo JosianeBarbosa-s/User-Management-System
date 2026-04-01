@@ -61,8 +61,11 @@ O objetivo deste projeto é praticar desenvolvimento frontend, incluindo:
 ![Busca](./assets.png/busca.png)
 
 ### Ações (Excluir/Editar)
+
+#### Ação Excluir
 ![Ação Excluir](./assets.png/AçãoExcluir.png)
 
+#### Ação Editar
 ![Ação Editar](./assets.png/AçãoEditar.png)
 
 ---
